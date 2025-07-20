@@ -1,5 +1,5 @@
 # 🎨 PixelCrafter - Professional Canvas-Based Image Editor
-
+**It is a Project developed using Emergent AI Agent**
 A modern, full-stack web application inspired by Photoshop, built with React, FastAPI, and MongoDB. PixelCrafter offers powerful image editing capabilities with AI assistance, multi-layer support, and real-time collaboration.
 
 ## ✨ Features

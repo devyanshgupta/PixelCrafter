@@ -374,14 +374,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google Gemini** for AI capabilities
 - **MongoDB** for database solution
 
-## 📞 Support
-
-- **Issues**: Create GitHub issue
-- **Discussions**: GitHub Discussions
-- **Email**: support@pixelcrafter.com
-
 ---
 
-**Built with ❤️ by the PixelCrafter team**
+**Built with Emergent AI**
 
 *Happy editing! 🎨*
